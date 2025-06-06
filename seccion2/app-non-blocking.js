@@ -11,7 +11,7 @@ getUsuario(2, (usuario) =>{
     console.timeEnd('inicio');
 })
 
-console.log('Finalizando el Programa');
+console.log('Fin del programa');
 
 
 
